@@ -1,0 +1,62 @@
+[
+    {
+        "name": "John Doe",
+        "score": 100.0
+    },
+    {
+        "name": "Jane Smith",
+        "score": 30.0
+    },
+    {
+        "name": "Michael Johnson",
+        "score": 76.67
+    },
+    {
+        "name": "Emily Davis",
+        "score": 76.67
+    },
+    {
+        "name": "Robert Brown",
+        "score": 30.0
+    },
+    {
+        "name": "Sophia Wilson",
+        "score": 53.33
+    },
+    {
+        "name": "David Miller",
+        "score": 30.0
+    },
+    {
+        "name": "Olivia Taylor",
+        "score": 53.33
+    },
+    {
+        "name": "Daniel Anderson",
+        "score": 76.67
+    },
+    {
+        "name": "Isabella Thomas",
+        "score": 30.0
+    },
+    {
+        "name": "William Martinez",
+        "score": 53.33
+    },
+    {
+        "name": "Ava Hernandez",
+        "score": 100.0
+    },
+    {
+        "name": "James Moore",
+        "score": 30.0
+    },
+    {
+        "name": "Mia Martin",
+        "score": 53.33
+    },
+    {
+        "name": "Benjamin Lee",
+        "score": 30.0
+    }
+]
